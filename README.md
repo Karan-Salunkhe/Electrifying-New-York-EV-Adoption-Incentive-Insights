@@ -30,7 +30,8 @@ This project delivers **interactive dashboards** analyzing **EV adoption and inc
 - Comparative adoption of **BEVs vs. PHEVs**.  
 
 **Example Visualization:**  
-![EV Registration Dashboard](EV-Adoption-and-Incentives-in-New-York-State-main/EV_Registration_Dashboard.png)
+<img width="1070" height="603" alt="image" src="https://github.com/user-attachments/assets/b4ef5652-aa6d-4659-8d1e-7ef02bb4d11a" />
+
 
 ---
 
@@ -44,7 +45,8 @@ This project delivers **interactive dashboards** analyzing **EV adoption and inc
 - Identification of underserved regions.  
 
 **Example Visualization:**  
-![Charging Infrastructure Dashboard](EV-Adoption-and-Incentives-in-New-York-State-main/Charging_Infrastructure_Dashboard.png)
+<img width="1053" height="594" alt="image" src="https://github.com/user-attachments/assets/8f780546-91f0-49e3-8d2d-16b07a9c784d" />
+
 
 ---
 
