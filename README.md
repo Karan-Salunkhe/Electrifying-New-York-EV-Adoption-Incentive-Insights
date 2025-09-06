@@ -79,14 +79,6 @@ This project delivers **interactive dashboards** analyzing **EV adoption and inc
 - **NY State EV Rebate Data:** [NY Data Portal](https://data.ny.gov)  
 - **NY EV Charging Infrastructure:** [US DOE AFDC](https://afdc.energy.gov)  
 
----
-
-## 🤝 Contributing
-1. Fork this repository  
-2. Create a new branch: `git checkout -b feature-branch`  
-3. Commit your changes: `git commit -m "Add feature"`  
-4. Push: `git push origin feature-branch`  
-5. Open a Pull Request  
 
 ---
 
