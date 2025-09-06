@@ -1,90 +1,74 @@
 # ⚡ Electrifying Insights: EV Adoption & Incentives in New York State
 
-This project delivers **data-driven, interactive dashboards** analyzing **Electric Vehicle (EV) adoption and incentive programs** in **New York State**. Using **Python and Tableau**, it evaluates rebates, registrations, and charging infrastructure to guide **policy decisions** and **strategic investments**, turning raw data into actionable insights.  
+This project delivers **interactive dashboards** analyzing **EV adoption and incentive programs** in New York State. Using **Python and Tableau**, it converts raw data into actionable insights for **policy decisions** and **strategic planning**.
 
 ---
 
 ## 📊 Project Dashboards
 
 ### **1️⃣ EV Rebate Analysis**
-**Focus:** Evaluating the effectiveness of NY’s **EV rebate programs**.  
+**Focus:** Evaluating the effectiveness of NY’s rebate programs.  
 
 **Key Insights:**
 - Total rebates issued and funding spent per county.  
 - Greenhouse gas (GHG) reductions by county.  
 - Seasonal trends in rebate issuance.  
-- Rebate distribution by vehicle make and model, revealing **affordability and adoption patterns**.  
-
-**Business/Analytical Takeaways:**  
-- Demonstrates which counties benefit most from incentives.  
-- Identifies **opportunities to optimize rebate allocation**.  
-- Shows the correlation between rebates and measurable environmental impact.  
+- Rebate distribution by vehicle make and model.  
 
 **Example Visualization:**  
-<img src="EV_Rebate_Dashboard.png" width="700">
+![EV Rebate Dashboard](EV-Adoption-and-Incentives-in-New-York-State-main/EV_Rebate_Dashboard.png)
 
 ---
 
 ### **2️⃣ EV Registration Trends**
-**Focus:** Understanding **EV adoption dynamics** statewide.  
+**Focus:** Understanding EV adoption patterns.  
 
 **Key Insights:**
-- Geographic distribution of EV registrations via heatmaps.  
-- Annual adoption trends showing growth trajectory.  
-- Market share by manufacturer: Tesla vs. competitors.  
+- Geographic distribution of registrations via heatmaps.  
+- Annual adoption trends and market share by manufacturer.  
 - Comparative adoption of **BEVs vs. PHEVs**.  
 
-**Business/Analytical Takeaways:**  
-- Reveals **market trends** and competitive positioning.  
-- Highlights regions where **adoption lags**, helping policymakers design targeted incentives.  
-- Shows Tesla’s dominance while illustrating emerging competitor growth.  
-
 **Example Visualization:**  
-<img src="EV_Registration_Dashboard.png" width="700">
+![EV Registration Dashboard](EV-Adoption-and-Incentives-in-New-York-State-main/EV_Registration_Dashboard.png)
 
 ---
 
 ### **3️⃣ Charging Infrastructure Readiness**
-**Focus:** Assessing **charging station availability and accessibility**.  
+**Focus:** Assessing charging station availability and accessibility.  
 
 **Key Insights:**
 - Location and density of charging stations by connector type.  
 - Growth trends in Level 2 and DC fast chargers.  
-- Comparative analysis of major networks: Tesla Superchargers, ChargePoint, EVgo.  
-- Identification of **underserved regions** for future expansion.  
-
-**Business/Analytical Takeaways:**  
-- Identifies **investment gaps** in infrastructure.  
-- Supports strategic placement of new stations to **maximize adoption**.  
-- Provides insights for **public-private partnerships** in clean mobility.  
+- Analysis of Tesla Superchargers, ChargePoint, and EVgo.  
+- Identification of underserved regions.  
 
 **Example Visualization:**  
-<img src="Charging_Infrastructure_Dashboard.png" width="700">
+![Charging Infrastructure Dashboard](EV-Adoption-and-Incentives-in-New-York-State-main/Charging_Infrastructure_Dashboard.png)
 
 ---
 
 ## 🔧 Technology Stack
-- **Tableau** – Interactive dashboards and visual storytelling  
-- **Python (Pandas, NumPy, Matplotlib)** – Data cleaning, transformation, and analysis  
-- **SQL** – Data extraction, integration, and aggregation  
+- **Tableau** – Interactive dashboards  
+- **Python (Pandas, NumPy, Matplotlib)** – Data cleaning and analysis  
+- **SQL** – Data extraction and integration  
 - **Data Sources:** NY State EV rebate & registration datasets, EV charging infrastructure datasets  
 
 ---
 
 ## 🚀 Key Insights & Takeaways
-- **Incentives drive adoption:** Counties with highest rebate uptake show measurable reductions in GHG emissions.  
-- **Market trends:** EV registrations grow annually; Tesla leads but Chevrolet and Ford are emerging competitors.  
-- **Urban vs. rural dynamics:** Urban adoption is high due to infrastructure; rural areas require additional incentives.  
-- **Infrastructure gaps:** DC fast-charging stations support long-range travel but reveal underserved regions, highlighting business opportunities.  
+- Incentives drive adoption: counties with highest rebate uptake show measurable GHG reductions  
+- EV registrations grow annually; Tesla leads, but Chevrolet and Ford are emerging competitors  
+- Urban adoption is higher due to better charging infrastructure; rural areas need targeted incentives  
+- DC fast-charging expansion supports long-range travel but reveals underserved regions  
 
 ---
 
 ## 🏆 Business & Real-World Impact
-- **Policy Optimization:** Helps government allocate rebates more efficiently and track environmental outcomes.  
-- **Investment Guidance:** Identifies regions where EV infrastructure expansion can maximize adoption.  
-- **Competitive Analysis:** Shows manufacturers’ market share trends for strategic business decisions.  
-- **Sustainability Impact:** Links incentives, adoption, and infrastructure to measurable GHG reductions.  
-- **Data-Driven Storytelling:** Converts raw datasets into **actionable insights**, demonstrating the power of analytics in real-world decision-making.  
+- **Policy Optimization:** Guides rebate allocation and tracks environmental impact  
+- **Investment Guidance:** Identifies regions for infrastructure expansion  
+- **Competitive Analysis:** Shows manufacturers’ market share trends  
+- **Sustainability Impact:** Links adoption and incentives to measurable GHG reductions  
+- **Storytelling with Data:** Converts raw datasets into actionable insights for decision-making  
 
 ---
 
@@ -95,13 +79,12 @@ This project delivers **data-driven, interactive dashboards** analyzing **Electr
 ---
 
 ## 🤝 Contributing
-Contributions are welcome! To collaborate:  
 1. Fork this repository  
 2. Create a new branch: `git checkout -b feature-branch`  
-3. Make changes and commit: `git commit -m "Add feature"`  
-4. Push your branch: `git push origin feature-branch`  
-5. Open a Pull Request for review  
+3. Commit your changes: `git commit -m "Add feature"`  
+4. Push: `git push origin feature-branch`  
+5. Open a Pull Request  
 
 ---
 
-🌱 **Using analytics to drive sustainable EV adoption in New York—one insight at a time!** ⚡
+🌱 **Driving New York toward a cleaner, electrified future—one insight at a time!** ⚡
