@@ -16,7 +16,8 @@ This project delivers **interactive dashboards** analyzing **EV adoption and inc
 - Rebate distribution by vehicle make and model.  
 
 **Example Visualization:**  
-![EV Rebate Dashboard](EV-Adoption-and-Incentives-in-New-York-State-main/EV_Rebate_Dashboard.png)
+<img width="1071" height="596" alt="image" src="https://github.com/user-attachments/assets/27d0233e-fab6-4d4a-8826-4afa3c66ab79" />
+
 
 ---
 
